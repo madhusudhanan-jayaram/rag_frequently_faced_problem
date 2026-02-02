@@ -12,6 +12,10 @@ New to RAG? Start here:
 3. [Embedding Models](./docs/03-embeddings.md) - Convert text to vectors
 4. [Vector Databases](./docs/04-vector-databases.md) - Store and index vectors
 5. [Retrieval Strategies](./docs/05-retrieval.md) - Find relevant content
+6. [Generation & Prompting](./docs/06-generation-prompting.md) - Craft effective prompts
+7. [Evaluation & Monitoring](./docs/07-evaluation-monitoring.md) - Measure and track quality
+8. [Security & Compliance](./docs/08-security-compliance.md) - Enterprise security practices
+9. [Production Deployment](./docs/09-production-deployment.md) - Deploy at scale
 
 ---
 
@@ -56,6 +60,10 @@ Retrieval-Augmented Generation (RAG) enhances LLM responses by retrieving releva
 | 3 | [Embedding Models](./docs/03-embeddings.md) | Convert text to vector representations | Model selection, fine-tuning |
 | 4 | [Vector Databases](./docs/04-vector-databases.md) | Store and search vector embeddings | Database selection, indexing |
 | 5 | [Retrieval Strategies](./docs/05-retrieval.md) | Find and rank relevant content | Search methods, re-ranking |
+| 6 | [Generation & Prompting](./docs/06-generation-prompting.md) | Generate accurate LLM responses | Prompt design, grounding |
+| 7 | [Evaluation & Monitoring](./docs/07-evaluation-monitoring.md) | Measure and track RAG quality | Metrics, benchmarks, observability |
+| 8 | [Security & Compliance](./docs/08-security-compliance.md) | Secure enterprise RAG systems | Access control, PII, audit |
+| 9 | [Production Deployment](./docs/09-production-deployment.md) | Deploy and scale RAG systems | Infrastructure, scaling, reliability |
 
 ### What Each Guide Contains
 
@@ -296,6 +304,10 @@ MIT License
 | [03 - Embeddings](./docs/03-embeddings.md) | Vector embedding models |
 | [04 - Vector Databases](./docs/04-vector-databases.md) | Vector storage and indexing |
 | [05 - Retrieval](./docs/05-retrieval.md) | Search and ranking strategies |
+| [06 - Generation & Prompting](./docs/06-generation-prompting.md) | Prompt engineering and response generation |
+| [07 - Evaluation & Monitoring](./docs/07-evaluation-monitoring.md) | Quality metrics and observability |
+| [08 - Security & Compliance](./docs/08-security-compliance.md) | Enterprise security and compliance |
+| [09 - Production Deployment](./docs/09-production-deployment.md) | Scaling and production infrastructure |
 
 ---
 
